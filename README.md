@@ -35,7 +35,7 @@ You need PC, laptop or smartphone with Mozilla,Edge or Safari browser to visit t
 
 # Contact
 * Hema - khemalatha507@gmail.com
-* [Portfolio URL](https://hema0618.github.io/Portfolio/ "Portfolio URL")
+* [Password Generator URL](https://hema0618.github.io/password-generator/ "Password Generator URL")
 * Repository URL:https://github.com/hema0618/password-generator
 
 
